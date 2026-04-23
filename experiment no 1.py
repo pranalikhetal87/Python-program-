@@ -1,5 +1,5 @@
 #integer
-Roll_no=2
+Roll_no=226
 print(type(Roll_no))
 
 #float
@@ -7,7 +7,7 @@ b=10.5
 print(type(b))
 
 #string
-c="safiya"
+c="pranali"
 print(type(c))
 
 #boolean
@@ -23,7 +23,7 @@ f=(10,20,30)
 print(type(f))
 
 #dictionary
-g={"name":"safiya",
+g={"name":"pranali",
    "age":20}
 print(type(g))
 
