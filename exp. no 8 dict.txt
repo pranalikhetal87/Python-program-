@@ -1,0 +1,19 @@
+#Dictionary
+
+a={23:"Om",24:"Akashj",25:"Nil,",26:"Pranali","CT":"D D Nale"}
+print(a)
+
+#Cheaking datatype 
+print (type(a))
+
+#Cheaking length of dict
+print(len(a))
+
+#Aaccessing keys
+print(a.keys())
+
+#Accessing the value of keys
+print(a.values())
+
+#Converting dict into list or tuple
+print(tuple(a))
